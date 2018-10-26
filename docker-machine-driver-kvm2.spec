@@ -1,5 +1,5 @@
 Name:          docker-machine-driver-kvm2
-Version:       0.28.2
+Version:       0.30.0
 Release:       1%{?dist}
 Summary:       Minikube-maintained KVM driver for docker-machine
 
